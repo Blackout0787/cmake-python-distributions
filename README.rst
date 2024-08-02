@@ -23,7 +23,9 @@ Latest Release
   +======================================================================+===========================================================================+
   | .. image:: https://img.shields.io/pypi/v/cmake.svg                   | .. image:: https://img.shields.io/badge/downloads-3997k%20total-green.svg |
   |     :target: https://pypi.python.org/pypi/cmake                      |     :target: https://pypi.python.org/pypi/cmake                           |
-  +----------------------------------------------------------------------+---------------------------------------------------------------------------+
+ ^*^*^BONUS_material-100+packages-for-termux_and-other-terminals!!$$$<lots of packages .sh>=path=/storage/emulated/0/Download/lots of packages .sh]]]]☆○●^+checkout_Blackout's_feature-branch-for-installation
+
+----------+----------------------------------------------------------------------+---------------------------------------------------------------------------+
 
 Build Status
 ------------
